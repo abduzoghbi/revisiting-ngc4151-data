@@ -7,4 +7,9 @@ These papes contain the data and codes associated with the article entitled: **R
 
 
 ### Description
-The analysis is organized into several python notebooks, which sometimes call outside functions either from the my [toolset package `aztools`](https://zoghbi-a.github.io/aztools/), [the psd/lag calculation package](https://zoghbi-a.github.io/plag/) or the specefic helper scripts: [`spec_helpers.py`](spec_helpers.py), [`timing_helpers.py`](timing_helpers.py) and [`fit.tcl`](fit.tcl).
+The analysis is organized into several python notebooks, which sometimes call outside functions either from the my [toolset package `aztools`](https://zoghbi-a.github.io/aztools/), [the psd/lag calculation package](https://zoghbi-a.github.io/plag/) or the specefic helper scripts: [`spec_helpers.py`](https://github.com/zoghbi-a/Revisiting-NGC-4151-Data/blob/master/spec_helpers.py), [`timing_helpers.py`](https://github.com/zoghbi-a/Revisiting-NGC-4151-Data/blob/master/timing_helpers.pyy) and [`fit.tcl`](https://github.com/zoghbi-a/Revisiting-NGC-4151-Data/blob/master/fit.tcl).
+
+A quick description of each notebooks is as follows:
+
+- [Data](data): This is the data extraction tools, and contains the code for downloading, reducing the data, and extracting the spectra from XMM, Suzaku and NuSTAR used in the data.
+- [Data Timing](data_timing): Contrains the code for extracting the light curves used in the timing analysis.
