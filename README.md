@@ -24,3 +24,9 @@ A quick description of each notebooks is as follows:
 - [Spec Other Parameters](spec_other_params): Study the variability of parameters other than the narrow line resulting from the spectral modeling in [Spec](spec).
 - [Timing](timing): Contains the code for extracting and modeling the power spectra and lags.
 - [Lag Models](lag_models): Contains the code for producing the lag models presented in the discussion section of the paper.
+
+### Data Products
+All the data products are available through the Open Science Framework at the [following link](https://osf.io/x4jde/files/?view_only=57dad9b5453c4ebba5567023606bdbd1). There are three files:
+- `xmm_spec.tgz`: contains the spectral products and modeling from individual observations.
+- `xmm_subspec.tgz`: contains the spectral products from the 5 ks spectra, used for the narrow line analysis.
+- `xmm_timing.tgz`: contains all the timing products.
