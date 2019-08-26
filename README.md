@@ -28,5 +28,6 @@ A quick description of each notebooks is as follows:
 ### Data Products
 All the data products are available through the Open Science Framework at the [following link](https://osf.io/x4jde/files/). There are three files:
 - [`xmm_spec.tgz`](https://osf.io/a68e9/): contains the spectral products and modeling from individual observations.
-- [`xmm_subspec.tgz`](https://osf.io/8sqcp/): contains the spectral products from the 5 ks spectra, used for the narrow line analysis.
+- [`xmm_subspec.tgz`](https://osf.io/8sqcp/): contains the spectral products from 5 ks segments, used for the narrow line analysis.
+- [`suzaku_subspec.tgz`](https://osf.io/f8buc/): contains the spectral products from 5 ks segments, used for the narrow line analysis.
 - [`xmm_timing.tgz`](https://osf.io/86qbd/): contains all the timing products.
